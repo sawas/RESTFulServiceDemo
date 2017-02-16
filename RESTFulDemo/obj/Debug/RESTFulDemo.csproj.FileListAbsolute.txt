@@ -1,0 +1,5 @@
+D:\Outsource\Sawangchai\Craft\git\RESTFulServiceDemo\RESTFulDemo\obj\Debug\RESTFulDemo.csprojResolveAssemblyReference.cache
+D:\Outsource\Sawangchai\Craft\git\RESTFulServiceDemo\RESTFulDemo\bin\RESTFulDemo.dll
+D:\Outsource\Sawangchai\Craft\git\RESTFulServiceDemo\RESTFulDemo\bin\RESTFulDemo.pdb
+D:\Outsource\Sawangchai\Craft\git\RESTFulServiceDemo\RESTFulDemo\obj\Debug\RESTFulDemo.dll
+D:\Outsource\Sawangchai\Craft\git\RESTFulServiceDemo\RESTFulDemo\obj\Debug\RESTFulDemo.pdb
